@@ -1,0 +1,14 @@
+{
+  "osStr": "iOS",
+  "version": "12.2 beta",
+  "build": "16E5181f",
+  "released": "2019-01-24",
+  "beta": true,
+  "deviceMap": [],
+  "uniqueBuild": "16E5181f",
+  "key": "iOS;16E5181f",
+  "preinstalled": [],
+  "osType": "iOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/iOS/16E5181f"
+}

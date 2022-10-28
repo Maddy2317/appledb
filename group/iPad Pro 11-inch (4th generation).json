@@ -1,0 +1,13 @@
+{
+  "name": "iPad Pro 11-inch (4th generation)",
+  "type": "iPad Pro",
+  "order": 10,
+  "devices": [
+    "iPad14,3",
+    "iPad14,4",
+    "iPad14,4-mmwave",
+    "iPad14,4-china"
+  ],
+  "hideChildren": false,
+  "key": "iPad Pro 11-inch (4th generation)"
+}

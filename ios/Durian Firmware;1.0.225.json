@@ -1,0 +1,17 @@
+{
+  "osStr": "Durian Firmware",
+  "version": "1.0.225",
+  "released": "2021-04-30",
+  "deviceMap": [
+    "AirTag1,1"
+  ],
+  "uniqueBuild": "1.0.225",
+  "key": "Durian Firmware;1.0.225",
+  "beta": false,
+  "preinstalled": [],
+  "osType": "Durian Firmware",
+  "devices": {
+    "AirTag1,1": {}
+  },
+  "appledburl": "https://appledb.dev/firmware/Durian-Firmware/1.0.225"
+}

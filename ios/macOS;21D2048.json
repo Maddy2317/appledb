@@ -1,0 +1,20 @@
+{
+  "osStr": "macOS",
+  "version": "12.2",
+  "build": "21D2048",
+  "released": "2022-01-26",
+  "deviceMap": [
+    "Mac13,1",
+    "Mac13,2"
+  ],
+  "uniqueBuild": "21D2048",
+  "key": "macOS;21D2048",
+  "beta": false,
+  "preinstalled": [],
+  "osType": "macOS",
+  "devices": {
+    "Mac13,1": {},
+    "Mac13,2": {}
+  },
+  "appledburl": "https://appledb.dev/firmware/macOS/21D2048"
+}

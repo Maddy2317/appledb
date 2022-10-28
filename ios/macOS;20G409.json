@@ -1,0 +1,14 @@
+{
+  "osStr": "macOS",
+  "version": "11.6.3 RC 2",
+  "build": "20G409",
+  "released": "2022-01-11",
+  "beta": true,
+  "uniqueBuild": "20G409",
+  "key": "macOS;20G409",
+  "deviceMap": [],
+  "preinstalled": [],
+  "osType": "macOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/macOS/20G409"
+}

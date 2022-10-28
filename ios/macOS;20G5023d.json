@@ -1,0 +1,14 @@
+{
+  "osStr": "macOS",
+  "version": "11.5 beta",
+  "build": "20G5023d",
+  "released": "2021-05-19",
+  "beta": true,
+  "uniqueBuild": "20G5023d",
+  "key": "macOS;20G5023d",
+  "deviceMap": [],
+  "preinstalled": [],
+  "osType": "macOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/macOS/20G5023d"
+}

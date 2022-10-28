@@ -1,0 +1,14 @@
+{
+  "osStr": "macOS",
+  "version": "11.3 beta",
+  "build": "20E5172i",
+  "released": "2021-02-02",
+  "beta": true,
+  "uniqueBuild": "20E5172i",
+  "key": "macOS;20E5172i",
+  "deviceMap": [],
+  "preinstalled": [],
+  "osType": "macOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/macOS/20E5172i"
+}

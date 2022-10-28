@@ -1,0 +1,14 @@
+{
+  "osStr": "macOS",
+  "version": "11.6.2 RC 3",
+  "build": "20G311",
+  "released": "2021-12-01",
+  "beta": true,
+  "uniqueBuild": "20G311",
+  "key": "macOS;20G311",
+  "deviceMap": [],
+  "preinstalled": [],
+  "osType": "macOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/macOS/20G311"
+}

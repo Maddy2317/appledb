@@ -1,0 +1,14 @@
+{
+  "osStr": "macOS",
+  "version": "11.5 beta 4",
+  "build": "20G5052c",
+  "released": "2021-06-29",
+  "beta": true,
+  "uniqueBuild": "20G5052c",
+  "key": "macOS;20G5052c",
+  "deviceMap": [],
+  "preinstalled": [],
+  "osType": "macOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/macOS/20G5052c"
+}

@@ -1,0 +1,14 @@
+{
+  "osStr": "macOS",
+  "version": "11.5 beta 5",
+  "build": "20G5065a",
+  "released": "2021-07-08",
+  "beta": true,
+  "uniqueBuild": "20G5065a",
+  "key": "macOS;20G5065a",
+  "deviceMap": [],
+  "preinstalled": [],
+  "osType": "macOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/macOS/20G5065a"
+}

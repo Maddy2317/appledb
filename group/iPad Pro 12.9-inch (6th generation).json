@@ -1,0 +1,13 @@
+{
+  "name": "iPad Pro 12.9-inch (6th generation)",
+  "type": "iPad Pro",
+  "order": 11,
+  "devices": [
+    "iPad14,5",
+    "iPad14,6",
+    "iPad14,6-mmwave",
+    "iPad14,6-china"
+  ],
+  "hideChildren": false,
+  "key": "iPad Pro 12.9-inch (6th generation)"
+}

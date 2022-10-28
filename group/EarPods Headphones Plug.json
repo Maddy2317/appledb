@@ -1,0 +1,10 @@
+{
+  "name": "EarPods Headphones Plug",
+  "type": "Audio",
+  "devices": [
+    "EarPods Headphones Plug"
+  ],
+  "hideChildren": false,
+  "key": "EarPods Headphones Plug",
+  "order": 0
+}
