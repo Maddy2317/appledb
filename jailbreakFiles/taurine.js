@@ -2,9 +2,33 @@ module.exports = {
   name: "Taurine",
   priority: 1,
   info: {
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     website: {
       name: "taurine.app",
-      url: "https://taurine.app/",
+      url: "https://
+      
+      
+      
+      t
+      
+      
+      
+      
+      
+      
+      
+      aurine.app/",
       external: true
     },
     wiki: {
@@ -59,6 +83,10 @@ module.exports = {
       }
     ],
     latestVer: "1.1.6",
+    
+    
+    
+    
     color: "#6742cd",
     icon: "/assets/images/jb-icons/taurine.png",
     notes: "Can obtain a permanently signed version after initially jailbreaking by installing `taurine-permanent` from the Odyssey Repo",
